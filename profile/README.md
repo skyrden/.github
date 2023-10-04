@@ -1,5 +1,5 @@
-# Welcome to Skyrden Org
-If you know the shits you should come [work with us](https://beta.skyrden/jobs/developer)
+# Welcome to Skyrden Github Org
+If you know the shits about development, you should come [work with us](https://beta.skyrden/jobs/developer) 😎
 
 <!--
 
