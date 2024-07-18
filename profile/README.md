@@ -1,5 +1,5 @@
 # Welcome to Skyrden Github Org
-If you know the shits about development, you should come [work with us](https://beta.skyrden/jobs/developer) 😎
+If you know the shits about development, you should come [work with us](https://discord.gg/skyrden) 😎
 
 <!--
 
